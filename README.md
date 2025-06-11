@@ -6,7 +6,6 @@ Related Article: https://playelek.com/doit-esp32-devkit-v1/
 ![Image of doit esp32 devkit v1](https://github.com/playelek/pinout-doit-32devkitv1/blob/master/pinoutDOIT32devkitv1.png)
 
 ![OpenOCD-BlueTag-pinLayout](https://github.com/solcoteh/pinout-doit-32devkitv1/blob/master/OpenOCD-BlueTag-pinLayout.PNG)
-
 ![Jtag-pinlayout](https://github.com/solcoteh/pinout-doit-32devkitv1/blob/master/Jtag-pinlayout.PNG)
 
 ### References
