@@ -15,4 +15,6 @@ Related Article: https://playelek.com/doit-esp32-devkit-v1/
 
 ## RP2040
 
+### Pinout Helper RP2040
 
+![Pinout Helper RP2040](https://github.com/solcoteh/Pinout-Helper/blob/master/112624.jpg)
