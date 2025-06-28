@@ -13,8 +13,8 @@ Related Article: https://playelek.com/doit-esp32-devkit-v1/
 #### Jtag 
 ![Jtag-pinout](https://github.com/solcoteh/pinout-doit-32devkitv1/blob/master/Jtag-pinlayout.png)
 
-## RP2040
+## RP2350
 
-### Pinout Helper RP2040
+### Pinout Helper RP2350
 
-![Pinout Helper RP2040](https://github.com/solcoteh/Pinout-Helper/blob/master/112624.jpg)
+![Pinout Helper RP2350](https://github.com/solcoteh/Pinout-Helper/blob/master/112624.jpg)
